@@ -1,5 +1,5 @@
-# jsp-project
-jsp 프로젝트 (9월 급식 웹사이트 개발)
+# jsp-cafeteria-project 🍜
+9월 급식 알려주는 웹사이트 입니다 :-)
 
 ## PREVIEW 🌠
 미림 급식 웹사이트 실행화면 
